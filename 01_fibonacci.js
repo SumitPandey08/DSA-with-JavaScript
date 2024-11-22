@@ -12,5 +12,5 @@ function fubonacci(n){
 }
 console.log(fubonacci(4)) // [1 , 2 , 3 , 5 , 8]
 console.log(fubonacci(16))
-console.log(fubonacci(64))
+console.log(fubonacci(10))
 // Bog-O = O(n) time complexity  linear
