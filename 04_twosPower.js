@@ -36,4 +36,5 @@ function twoPowerBitWise(n){
     }
 
     console.log(twoPowerBitWise(8));
+    // Now Big-O = O(1)
     
